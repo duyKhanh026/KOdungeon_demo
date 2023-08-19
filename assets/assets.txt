@@ -1,0 +1,164 @@
+d:assets:assets:0:application/unknown:1
+d:Animations:Animations:0:application/unknown:1
+d:Animations/Decoration:Animations/Decoration:0:application/unknown:1
+i:Animations/Decoration/Minifantasy_DungeonCandle.png:Animations/Decoration/Minifantasy_DungeonCandle-34fec034099d55ebe513e14e177e202a.png:187:image/png:1
+i:Animations/Decoration/Minifantasy_DungeonCandleLight.png:Animations/Decoration/Minifantasy_DungeonCandleLight-d8b139376fb673aebaab717b705188e1.png:210:image/png:1
+i:Animations/Decoration/Minifantasy_DungeonTorch.png:Animations/Decoration/Minifantasy_DungeonTorch-1b91ca7ebbc358d1ee819f061a394216.png:358:image/png:1
+i:Animations/Decoration/Minifantasy_DungeonTorchLight.png:Animations/Decoration/Minifantasy_DungeonTorchLight-467fa68f2c1866b2ef334b1a1b956fd3.png:847:image/png:1
+d:Animations/Human:Animations/Human:0:application/unknown:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseAnimations.png:Animations/Human/Minifantasy_CreaturesHumanBaseAnimations-3ee4c313d2e88eb6cf2eaacc22a5d375.png:12237:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseAttack.png:Animations/Human/Minifantasy_CreaturesHumanBaseAttack-f66e48dd41703dc6e0733df8dee6a6b3.png:1170:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseChargedAttack.png:Animations/Human/Minifantasy_CreaturesHumanBaseChargedAttack-4be03c893c30f56bede81fbad0534b55.png:1154:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseDmg.png:Animations/Human/Minifantasy_CreaturesHumanBaseDmg-a9f06a9b71997ee68bc778b6c2c1836c.png:1424:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseIdle.png:Animations/Human/Minifantasy_CreaturesHumanBaseIdle-4f8395b79eccb2d613ea45f1f39540c9.png:1524:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseJump.png:Animations/Human/Minifantasy_CreaturesHumanBaseJump-f3594b023f002d70164752af0ecd6394.png:1281:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseSoulDie.png:Animations/Human/Minifantasy_CreaturesHumanBaseSoulDie-6e8b6ce5e7e9f3f81e924ffd912646ec.png:1771:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseSpinDie.png:Animations/Human/Minifantasy_CreaturesHumanBaseSpinDie-c64165155da1c0fef6946fac523a8852.png:875:image/png:1
+i:Animations/Human/Minifantasy_CreaturesHumanBaseWalk.png:Animations/Human/Minifantasy_CreaturesHumanBaseWalk-74ec66b5d004d55808ad1ca39113e283.png:993:image/png:1
+d:Animations/Orc:Animations/Orc:0:application/unknown:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseAnimations.png:Animations/Orc/Minifantasy_CreaturesOrcBaseAnimations-1a0d16d10d66e17aafb39db024dae5ef.png:11462:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseAttack.png:Animations/Orc/Minifantasy_CreaturesOrcBaseAttack-4bc1b909991ac527b884f592ea94220b.png:1231:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseChargedAttack.png:Animations/Orc/Minifantasy_CreaturesOrcBaseChargedAttack-87c5a5ff2a12fb4332753b07214c215d.png:1119:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseDie.png:Animations/Orc/Minifantasy_CreaturesOrcBaseDie-df7b68b2221f52af79f0012c799f79c6.png:859:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseDmg.png:Animations/Orc/Minifantasy_CreaturesOrcBaseDmg-e6dd0b4fc70c056199e240bdcd9273fc.png:1823:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseIdle.png:Animations/Orc/Minifantasy_CreaturesOrcBaseIdle-3aee1e162947b4e907e234364e30ca42.png:1761:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseJump.png:Animations/Orc/Minifantasy_CreaturesOrcBaseJump-45f3c2de954cda00409382ffb9626661.png:1364:image/png:1
+i:Animations/Orc/Minifantasy_CreaturesOrcBaseWalk.png:Animations/Orc/Minifantasy_CreaturesOrcBaseWalk-6ec85ee80799b8bad6ba7b4d1940aaa2.png:1053:image/png:1
+d:Animations/Shadows:Animations/Shadows:0:application/unknown:1
+d:Animations/Shadows/Human, Orc:Animations/Shadows/Human, Orc:0:application/unknown:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidAttack.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidAttack-e34d3b7e4d3392a52e668d9cb38985da.png:388:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidChargedAttack.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidChargedAttack-25759faa4ff1f8991c567fe2ddc36481.png:326:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidDmg.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidDmg-4a391eed32822efde05d3087b16cb903.png:268:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidIdle.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidIdle-99c70c8817265c788c025f8aeb437542.png:530:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidJump.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidJump-7b8956ff653c5be66bb15533854d7529.png:328:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSoulDie.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSoulDie-e96a044dd4ba08cf77ac35f2975deec1.png:226:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie-b0cfe1ae7c162e58eaf1261887b7c8e5.png:240:image/png:1
+i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk-2f06cf9efa736c18bd5a3387d8ba14af.png:293:image/png:1
+i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
+i:buttonD.png:buttonD-1d6ad09d82d958f4de05a280073ad17d.png:26479:image/png:1
+i:buttonUP.png:buttonUP-b3129c0d810e78cda7ffee36c94b6b89.png:26952:image/png:1
+d:Digital Buttons:Digital Buttons:0:application/unknown:1
+d:Digital Buttons/ABXY:Digital Buttons/ABXY:0:application/unknown:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_1.png:Digital Buttons/ABXY/button_xbox_digital_a_1-ab20bdc5846e15f274fc9de017c96b57.png:36618:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_10.png:Digital Buttons/ABXY/button_xbox_digital_a_10-bfee688dc87c481a9f81dedebe3023e0.png:33555:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_11.png:Digital Buttons/ABXY/button_xbox_digital_a_11-ae754404f46dbc073eb269f97271c4d1.png:33830:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_12.png:Digital Buttons/ABXY/button_xbox_digital_a_12-212cef879d75bc416cbbfc3fe399d4d8.png:32553:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_2.png:Digital Buttons/ABXY/button_xbox_digital_a_2-f9e3fa53204ecebfb761040fb7499af1.png:31215:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_3.png:Digital Buttons/ABXY/button_xbox_digital_a_3-d222e66288271e9c6d9e05ced653ab47.png:31164:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_4.png:Digital Buttons/ABXY/button_xbox_digital_a_4-00d3d6734ac8a09dc91ec22dd7cf016a.png:35809:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_5.png:Digital Buttons/ABXY/button_xbox_digital_a_5-cb04fdffdd787cf48a5bb6529404892c.png:32268:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_6.png:Digital Buttons/ABXY/button_xbox_digital_a_6-2f442ff9688b7565aab3aedb9929c34d.png:32264:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_7.png:Digital Buttons/ABXY/button_xbox_digital_a_7-2fce4592ec39dead1cca2a15ed3554f7.png:36285:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_8.png:Digital Buttons/ABXY/button_xbox_digital_a_8-c03ebfee46b289301b16c0e3c276505b.png:31049:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_a_9.png:Digital Buttons/ABXY/button_xbox_digital_a_9-58ef689cbe3e7f3ad8fa326298bc4993.png:30900:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_1.png:Digital Buttons/ABXY/button_xbox_digital_b_1-5d68db3901b95b7a5cdf0f4320fef3b7.png:36635:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_10.png:Digital Buttons/ABXY/button_xbox_digital_b_10-f0e23f337a5f6a1749ce7892e77e1921.png:33730:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_11.png:Digital Buttons/ABXY/button_xbox_digital_b_11-e409705f1c9c979fb72b647d175dc9fb.png:33734:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_12.png:Digital Buttons/ABXY/button_xbox_digital_b_12-749bb6129c15739dd8c2bf474702d39a.png:35086:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_2.png:Digital Buttons/ABXY/button_xbox_digital_b_2-45eb0bf0b5f329bcd353d6533e1f1a02.png:31333:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_3.png:Digital Buttons/ABXY/button_xbox_digital_b_3-13176bbff26c8533c7c764f5cc8058f6.png:31627:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_4.png:Digital Buttons/ABXY/button_xbox_digital_b_4-40239c8eceef145b549344c25cf1ddd8.png:36155:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_5.png:Digital Buttons/ABXY/button_xbox_digital_b_5-ec43a1d02ac28c22ee16e5be35890972.png:32925:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_6.png:Digital Buttons/ABXY/button_xbox_digital_b_6-021d4c9e714654f61a7b3f130632bafe.png:32791:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_7.png:Digital Buttons/ABXY/button_xbox_digital_b_7-a163f1205817e65efeb950d16dadc860.png:36610:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_8.png:Digital Buttons/ABXY/button_xbox_digital_b_8-97784ee4e70bbb3bfc979f01b50aba30.png:31490:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_b_9.png:Digital Buttons/ABXY/button_xbox_digital_b_9-a23976d4a5a0ad4f527b4f66bb183100.png:31580:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_1.png:Digital Buttons/ABXY/button_xbox_digital_x_1-35974c8535c0794b1aa65955bbbbe105.png:38913:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_10.png:Digital Buttons/ABXY/button_xbox_digital_x_10-e66dc2b7060310312941d73ca8ce0734.png:35111:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_11.png:Digital Buttons/ABXY/button_xbox_digital_x_11-f092195d99861c11d8080c700f69d77d.png:35966:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_12.png:Digital Buttons/ABXY/button_xbox_digital_x_12-b6ae05aaeebfc9b86a38b9c7b8f9d861.png:35109:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_2.png:Digital Buttons/ABXY/button_xbox_digital_x_2-984a67f156c4f2717a1d4c00049f71cf.png:33382:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_3.png:Digital Buttons/ABXY/button_xbox_digital_x_3-bca511587d51b7710862572ba3d053ee.png:33455:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_4.png:Digital Buttons/ABXY/button_xbox_digital_x_4-58bb1e98dd2deb524336b8ffb7b4f8ea.png:37983:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_5.png:Digital Buttons/ABXY/button_xbox_digital_x_5-c93d40b1f9c15cdb22fd3f5d62ed83f4.png:35374:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_6.png:Digital Buttons/ABXY/button_xbox_digital_x_6-264097dcaeec172bb1fdae99967417ef.png:35127:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_7.png:Digital Buttons/ABXY/button_xbox_digital_x_7-5d0ac79d4b1e0a40406a9bfa8549a196.png:37880:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_8.png:Digital Buttons/ABXY/button_xbox_digital_x_8-35b1bdfd4f3cbfb8d04a7a39ea7f72ab.png:32663:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_x_9.png:Digital Buttons/ABXY/button_xbox_digital_x_9-6351acf7ac3eb75627d68762fb9ac0af.png:32773:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_1.png:Digital Buttons/ABXY/button_xbox_digital_y_1-eeaca7d9793177a9a788e10dff93f80b.png:37024:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_10.png:Digital Buttons/ABXY/button_xbox_digital_y_10-0ef980e574315ee0edfe1ea845321a7e.png:33614:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_11.png:Digital Buttons/ABXY/button_xbox_digital_y_11-0e106b251d4f99fd9c6c4b8d4bfe607d.png:34122:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_12.png:Digital Buttons/ABXY/button_xbox_digital_y_12-066032f8ec6f2a919da61be2e2935ef5.png:32454:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_2.png:Digital Buttons/ABXY/button_xbox_digital_y_2-9e74e66ef5af3b75a4d86bbf2da11851.png:31521:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_3.png:Digital Buttons/ABXY/button_xbox_digital_y_3-6df4cb7ab08e3e83b3b18335b2bf3f98.png:31457:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_4.png:Digital Buttons/ABXY/button_xbox_digital_y_4-e038a26572a28f5684d31e6d70d37ef3.png:35796:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_5.png:Digital Buttons/ABXY/button_xbox_digital_y_5-47c19d6f121d5e7caebfcddb008001ad.png:33125:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_6.png:Digital Buttons/ABXY/button_xbox_digital_y_6-73edfe6fb3199bd74df79102e3806e1c.png:32309:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_7.png:Digital Buttons/ABXY/button_xbox_digital_y_7-2e1c5e70a3da5182a698c826ecde65c7.png:36493:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_8.png:Digital Buttons/ABXY/button_xbox_digital_y_8-293234402a75a1b7d593997bcfab0446.png:31171:image/png:1
+i:Digital Buttons/ABXY/button_xbox_digital_y_9.png:Digital Buttons/ABXY/button_xbox_digital_y_9-ea31aa20db635d62b0ae0a0962006cc2.png:31120:image/png:1
+d:Digital Buttons/Analog:Digital Buttons/Analog:0:application/unknown:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_1.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_1-37734b11c3e38c8294f54cd8415f0319.png:31881:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_2.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_2-5dd9786d167009d0d3ca536aca0a7d37.png:32581:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_3.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_3-133c75c4929aebec66fd59a67a6445f7.png:30112:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_4.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_4-55d63d0b2598bf5da0667fbf884337d8.png:28768:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_5.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_5-70cef1d6f9f2d9c552c06327687ba326.png:29445:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_6.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_6-d5ab1ce9a6445e3c3dc96c271e126229.png:26784:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_7.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_7-02361bdaf6d2745ccd6f6ce228baba0d.png:29236:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_8.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_8-41f1fac269613553b43da7b03209e759.png:29904:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_9.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_dark_9-17ddf8f48d31baefda01f2520fc553cf.png:27423:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_1.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_1-79342300471df11e40122e8ab16b9aac.png:34147:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_2.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_2-be8219fce89719c6d8de26d9146768a2.png:34871:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_3.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_3-aff2706ea30f2e9b439d8d4bc30f32de.png:32306:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_4.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_4-c8e6b01544ef819f8c85dea3fe92b5b1.png:31150:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_5.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_5-f3f198a875a31eb2dbbae4c5237736f2.png:31918:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_6.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_6-0eb66038b82bd6f98f85973aec760c21.png:29375:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_7.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_7-2ad4ac72fa2f040c2808761099d2ed83.png:29013:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_8.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_8-cf855d79394085339351a75b81dcb48c.png:29750:image/png:1
+i:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_9.png:Digital Buttons/Analog/button_xboxone_digital_analog_click_light_9-df9f89239ab12873da63a71a0e407c9e.png:27099:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_1.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_1-fe9828bb69db23ef371f135978cd2601.png:33140:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_2.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_2-cb7e6df360a1295be08cd3c5ad6bf739.png:33693:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_3.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_3-16a42441b3a0879c43928aa2e7223fc1.png:31120:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_4.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_4-8516f6b3bf07ef1dae6a1951e8af19e0.png:31149:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_5.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_5-82ddf48c3b4d8beb825a24ee50bfeae6.png:31888:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_6.png:Digital Buttons/Analog/button_xbox_digital_analog_click_dark_6-a8c72889ffad1a0f763c8f6a30ca9bcc.png:29333:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_1.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_1-05a82da5854ebaee565ac9fac7fc47fb.png:34663:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_2.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_2-ab5b49bb5a509975fc58d2b9e62ee9b0.png:35401:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_3.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_3-98521da84f98b76b873d1bcf662dda93.png:32813:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_4.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_4-eea9f60a5922555873cc7b2e3f71c506.png:31689:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_5.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_5-41c02a4610c510725ea271a604f10e4e.png:32498:image/png:1
+i:Digital Buttons/Analog/button_xbox_digital_analog_click_light_6.png:Digital Buttons/Analog/button_xbox_digital_analog_click_light_6-45db899b1db874dd96ea4a118084c13d.png:29903:image/png:1
+b:Digital Buttons/Analog/desktop.ini:Digital Buttons/Analog/desktop-91ee24db10fd82aeb273e4afec345dab.ini:2920:application/unknown:1
+b:Digital Buttons/desktop.ini:Digital Buttons/desktop-4e5e00337423811dbe37e79c8e9d0955.ini:4122:application/unknown:1
+d:Digital Buttons/Shoulder:Digital Buttons/Shoulder:0:application/unknown:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_1.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_1-b6e98423114e986439698b1abca0897f.png:13764:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_2.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_2-fa975e10de7c00891b24c1793f7f6031.png:14182:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_3.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_3-fb5d934bb03ba0d896f13ee39c94bfdb.png:12313:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_4.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_dark_4-eb0bc0a75c9e013281ff7b03def2c3f2.png:12081:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_1.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_1-6145f03fa0ba4398938efc94acea4028.png:14730:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_2.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_2-ed2f145fdaf30442dbab22601cf6ca94.png:15507:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_3.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_3-9a74f53afa8acadc14eed5a363a6b5c2.png:13133:image/png:1
+i:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_4.png:Digital Buttons/Shoulder/button_xbox_digital_bumper_light_4-9d8dad103a3c1e2cc5496bf4f7a3c157.png:13235:image/png:1
+d:Digital Buttons/System:Digital Buttons/System:0:application/unknown:1
+i:Digital Buttons/System/button_xbox_digital_back_1.png:Digital Buttons/System/button_xbox_digital_back_1-e1a7190c4b807b9f5bd8ac1d97c548bc.png:22430:image/png:1
+i:Digital Buttons/System/button_xbox_digital_back_2.png:Digital Buttons/System/button_xbox_digital_back_2-edbaae940a85de356041cf12b3733ea1.png:25217:image/png:1
+i:Digital Buttons/System/button_xbox_digital_home_green.png:Digital Buttons/System/button_xbox_digital_home_green-bfc81fd4d8c769470aec2f258329bec0.png:43534:image/png:1
+i:Digital Buttons/System/button_xbox_digital_home_white.png:Digital Buttons/System/button_xbox_digital_home_white-818715b0c47ff6dc2707bd95a7c9c07a.png:40714:image/png:1
+i:Digital Buttons/System/button_xbox_digital_menu_1.png:Digital Buttons/System/button_xbox_digital_menu_1-9fcbf1fefe7536a5c057e565de038e41.png:24304:image/png:1
+i:Digital Buttons/System/button_xbox_digital_menu_2.png:Digital Buttons/System/button_xbox_digital_menu_2-283c085ce519dd699fa2970f72aa4c43.png:22860:image/png:1
+i:Digital Buttons/System/button_xbox_digital_start_1.png:Digital Buttons/System/button_xbox_digital_start_1-b5fa5d09992d8f1f1a3238c11d7a058d.png:22165:image/png:1
+i:Digital Buttons/System/button_xbox_digital_start_2.png:Digital Buttons/System/button_xbox_digital_start_2-5a59189de3238ba34150917e8e1dac2e.png:24769:image/png:1
+i:Digital Buttons/System/button_xbox_digital_view_1.png:Digital Buttons/System/button_xbox_digital_view_1-327e6fb52706f2492d47d8707b2159da.png:24776:image/png:1
+i:Digital Buttons/System/button_xbox_digital_view_2.png:Digital Buttons/System/button_xbox_digital_view_2-b7c849a39647fd71fd65ca73abe6d493.png:23496:image/png:1
+i:map1.png:map1-a5c98cd6ae5772d68399181d9d9bb921.png:7823:image/png:1
+i:MiniFantasy_DungeonMockup.png:MiniFantasy_DungeonMockup-96e28897d33e96783ceb96b22d7d6421.png:74213:image/png:1
+d:Props:Props:0:application/unknown:1
+i:Props/Minifantasy_DungeonProps.png:Props/Minifantasy_DungeonProps-2034b500831ea0cb5b96b7b62281f9fa.png:5919:image/png:1
+d:Props/Shadows:Props/Shadows:0:application/unknown:1
+i:Props/Shadows/Minifantasy_DungeonPropsShadows.png:Props/Shadows/Minifantasy_DungeonPropsShadows-3c7ae08dbd9617514729a7f42a9abc20.png:619:image/png:1
+d:Tileset:Tileset:0:application/unknown:1
+b:Tileset/bioElectricityGeneration.aseprite:Tileset/bioElectricityGeneration-90281c1d69b0ee38cb4a89edff40a4d0.aseprite:596:application/unknown:1
+i:Tileset/Minifantasy_DungeonCliffTiles.png:Tileset/Minifantasy_DungeonCliffTiles-4532eb28c30f38262bbc7aad205beee2.png:225:image/png:1
+i:Tileset/Minifantasy_DungeonDoorTiles.png:Tileset/Minifantasy_DungeonDoorTiles-f1a9c6488152194ffaf7f4b813d6480d.png:264:image/png:1
+i:Tileset/Minifantasy_DungeonFloorTiles.png:Tileset/Minifantasy_DungeonFloorTiles-ca741c399b90332963883390323b6acd.png:827:image/png:1
+i:Tileset/Minifantasy_DungeonWallTiles.png:Tileset/Minifantasy_DungeonWallTiles-104e314e9c2faa99aea967532aa6329b.png:1463:image/png:1
+d:Tileset/Shadows:Tileset/Shadows:0:application/unknown:1
+i:Tileset/Shadows/Minifantasy_DungeonWallTilesetShadows.png:Tileset/Shadows/Minifantasy_DungeonWallTilesetShadows-ce8d07de60e8e7bd17ec29bf87ba5387.png:321:image/png:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:default.vertex-28b7e77ea3f282ebd5b066ba256692c3.glsl:9096:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:depth.fragment-8341d5ce47fc398da575c9e294b6821b.glsl:869:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:depth.vertex-98a450f1f747c05eedb7122779187316.glsl:2931:application/unknown:1
+t:com/badlogic/gdx/utils/lsans-15.fnt:lsans-15-5143ae9583bc43b1084f98062e054ae8.fnt:17711:application/unknown:1
+i:com/badlogic/gdx/utils/lsans-15.png:lsans-15-afe63790f9c73ea9a111fd9843835d21.png:14652:image/png:1
