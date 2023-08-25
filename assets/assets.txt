@@ -37,15 +37,14 @@ i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSoulDie.png:A
 i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie-b0cfe1ae7c162e58eaf1261887b7c8e5.png:240:image/png:1
 i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk-2f06cf9efa736c18bd5a3387d8ba14af.png:293:image/png:1
 i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
-i:darkzone.png:darkzone-d686668ffefcf48465b99b89a6ce17ac.png:8009:image/png:1
 d:Digital Buttons:Digital Buttons:0:application/unknown:1
 i:Digital Buttons/attack.png:Digital Buttons/attack-f7934c044430e0b7d7f94dc104af2841.png:286:image/png:1
 i:Digital Buttons/buttonD.png:Digital Buttons/buttonD-1d6ad09d82d958f4de05a280073ad17d.png:26479:image/png:1
 i:Digital Buttons/buttonUP.png:Digital Buttons/buttonUP-b3129c0d810e78cda7ffee36c94b6b89.png:26952:image/png:1
 i:Digital Buttons/dashB.png:Digital Buttons/dashB-4e0e91a8ec4fffed8ff340e42eff4f1b.png:401:image/png:1
 b:Digital Buttons/desktop.ini:Digital Buttons/desktop-4e5e00337423811dbe37e79c8e9d0955.ini:4122:application/unknown:1
-i:Digital Buttons/joyB.png:Digital Buttons/joyB-d94f8d7d75bbb6e786082dd09481207e.png:1567:image/png:1
-i:Digital Buttons/joyC.png:Digital Buttons/joyC-0402a29a49020e2b387040a1070c1035.png:260:image/png:1
+i:Digital Buttons/joyB.png:Digital Buttons/joyB-a75237cb6c57969e2b04b4ef57f68fef.png:636:image/png:1
+i:Digital Buttons/joyC.png:Digital Buttons/joyC-e594473af046cd4501455524dcaa8318.png:249:image/png:1
 i:Digital Buttons/switchOFF.png:Digital Buttons/switchOFF-c1eefe66812ceb29d799fd432807fd4d.png:294:image/png:1
 i:Digital Buttons/switchOFFw.png:Digital Buttons/switchOFFw-d8ef4b66a03863d6c2d9e3b44a51f1ed.png:262:image/png:1
 i:Digital Buttons/switchON.png:Digital Buttons/switchON-235ee65828e4ad9d58d108c31ca759d1.png:244:image/png:1
