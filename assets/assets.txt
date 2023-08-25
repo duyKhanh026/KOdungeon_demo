@@ -42,12 +42,14 @@ d:Digital Buttons:Digital Buttons:0:application/unknown:1
 i:Digital Buttons/attack.png:Digital Buttons/attack-f7934c044430e0b7d7f94dc104af2841.png:286:image/png:1
 i:Digital Buttons/buttonD.png:Digital Buttons/buttonD-1d6ad09d82d958f4de05a280073ad17d.png:26479:image/png:1
 i:Digital Buttons/buttonUP.png:Digital Buttons/buttonUP-b3129c0d810e78cda7ffee36c94b6b89.png:26952:image/png:1
-i:Digital Buttons/dash.png:Digital Buttons/dash-b007b881ab94f85457b18b428ed820fc.png:325:image/png:1
+i:Digital Buttons/dashB.png:Digital Buttons/dashB-4e0e91a8ec4fffed8ff340e42eff4f1b.png:401:image/png:1
 b:Digital Buttons/desktop.ini:Digital Buttons/desktop-4e5e00337423811dbe37e79c8e9d0955.ini:4122:application/unknown:1
 i:Digital Buttons/joyB.png:Digital Buttons/joyB-d94f8d7d75bbb6e786082dd09481207e.png:1567:image/png:1
 i:Digital Buttons/joyC.png:Digital Buttons/joyC-0402a29a49020e2b387040a1070c1035.png:260:image/png:1
 i:Digital Buttons/switchOFF.png:Digital Buttons/switchOFF-c1eefe66812ceb29d799fd432807fd4d.png:294:image/png:1
+i:Digital Buttons/switchOFFw.png:Digital Buttons/switchOFFw-d8ef4b66a03863d6c2d9e3b44a51f1ed.png:262:image/png:1
 i:Digital Buttons/switchON.png:Digital Buttons/switchON-235ee65828e4ad9d58d108c31ca759d1.png:244:image/png:1
+i:Digital Buttons/switchONw.png:Digital Buttons/switchONw-9ab6968abdde53e9d03e1b21abdc99cc.png:237:image/png:1
 i:map1.png:map1-feb443a912e3a2d9430c701ff5025a72.png:7982:image/png:1
 i:map2.png:map2-73448b7b0f93072595267b3d5a2f7e33.png:4477:image/png:1
 i:map2hide.png:map2hide-19233f35e863d5a467efdf1c53eb4256.png:1477:image/png:1
