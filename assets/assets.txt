@@ -1,10 +1,12 @@
 d:assets:assets:0:application/unknown:1
 d:Animations:Animations:0:application/unknown:1
+i:Animations/dash.png:Animations/dash-af2aae8405c7a06d217c22d0c7290954.png:254:image/png:1
 d:Animations/Decoration:Animations/Decoration:0:application/unknown:1
 i:Animations/Decoration/Minifantasy_DungeonCandle.png:Animations/Decoration/Minifantasy_DungeonCandle-34fec034099d55ebe513e14e177e202a.png:187:image/png:1
 i:Animations/Decoration/Minifantasy_DungeonCandleLight.png:Animations/Decoration/Minifantasy_DungeonCandleLight-d8b139376fb673aebaab717b705188e1.png:210:image/png:1
 i:Animations/Decoration/Minifantasy_DungeonTorch.png:Animations/Decoration/Minifantasy_DungeonTorch-1b91ca7ebbc358d1ee819f061a394216.png:358:image/png:1
 i:Animations/Decoration/Minifantasy_DungeonTorchLight.png:Animations/Decoration/Minifantasy_DungeonTorchLight-467fa68f2c1866b2ef334b1a1b956fd3.png:847:image/png:1
+i:Animations/direc.png:Animations/direc-01b48ad3b08b24b22c7754971027248c.png:140:image/png:1
 d:Animations/Human:Animations/Human:0:application/unknown:1
 i:Animations/Human/Minifantasy_CreaturesHumanBaseAnimations.png:Animations/Human/Minifantasy_CreaturesHumanBaseAnimations-3ee4c313d2e88eb6cf2eaacc22a5d375.png:12237:image/png:1
 i:Animations/Human/Minifantasy_CreaturesHumanBaseAttack.png:Animations/Human/Minifantasy_CreaturesHumanBaseAttack-f66e48dd41703dc6e0733df8dee6a6b3.png:1170:image/png:1
@@ -35,15 +37,20 @@ i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSoulDie.png:A
 i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidSpinDie-b0cfe1ae7c162e58eaf1261887b7c8e5.png:240:image/png:1
 i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk.png:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk-2f06cf9efa736c18bd5a3387d8ba14af.png:293:image/png:1
 i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
+i:darkzone.png:darkzone-d686668ffefcf48465b99b89a6ce17ac.png:8009:image/png:1
 d:Digital Buttons:Digital Buttons:0:application/unknown:1
-i:Digital Buttons/attack.png:Digital Buttons/attack-340aae00b23b72c4e42353342b1256cf.png:261:image/png:1
+i:Digital Buttons/attack.png:Digital Buttons/attack-9eb1d172e87ab812897da5c8226a76b2.png:222:image/png:1
 i:Digital Buttons/buttonD.png:Digital Buttons/buttonD-1d6ad09d82d958f4de05a280073ad17d.png:26479:image/png:1
 i:Digital Buttons/buttonUP.png:Digital Buttons/buttonUP-b3129c0d810e78cda7ffee36c94b6b89.png:26952:image/png:1
+i:Digital Buttons/dash.png:Digital Buttons/dash-b007b881ab94f85457b18b428ed820fc.png:325:image/png:1
 b:Digital Buttons/desktop.ini:Digital Buttons/desktop-4e5e00337423811dbe37e79c8e9d0955.ini:4122:application/unknown:1
 i:Digital Buttons/joyB.png:Digital Buttons/joyB-044326233e593ba9b31e1c835eeaf32f.png:1636:image/png:1
 i:Digital Buttons/joyC.png:Digital Buttons/joyC-56e8d2929a006d5ef76d4181ae6d3c20.png:264:image/png:1
-i:map1.png:map1-a5c98cd6ae5772d68399181d9d9bb921.png:7823:image/png:1
-i:map1rm.png:map1rm-ceeaf2ac8846a5b598daff7d96f09b58.png:7315:image/png:1
+i:Digital Buttons/switchOFF.png:Digital Buttons/switchOFF-c1eefe66812ceb29d799fd432807fd4d.png:294:image/png:1
+i:Digital Buttons/switchON.png:Digital Buttons/switchON-235ee65828e4ad9d58d108c31ca759d1.png:244:image/png:1
+i:map1.png:map1-feb443a912e3a2d9430c701ff5025a72.png:7982:image/png:1
+i:map2.png:map2-73448b7b0f93072595267b3d5a2f7e33.png:4477:image/png:1
+i:map2hide.png:map2hide-19233f35e863d5a467efdf1c53eb4256.png:1477:image/png:1
 i:MiniFantasy_DungeonMockup.png:MiniFantasy_DungeonMockup-96e28897d33e96783ceb96b22d7d6421.png:74213:image/png:1
 d:Props:Props:0:application/unknown:1
 i:Props/Minifantasy_DungeonProps.png:Props/Minifantasy_DungeonProps-2034b500831ea0cb5b96b7b62281f9fa.png:5919:image/png:1
