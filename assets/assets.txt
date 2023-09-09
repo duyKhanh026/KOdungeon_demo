@@ -39,6 +39,7 @@ i:Animations/Shadows/Human, Orc/Minifantasy_CreaturesShadowHumanoidWalk.png:Anim
 i:badlogic.jpg:badlogic-ba3e909e98a4c58c6a15f043f2e1a8a7.jpg:68465:image/jpeg:1
 d:Digital Buttons:Digital Buttons:0:application/unknown:1
 i:Digital Buttons/attack.png:Digital Buttons/attack-f7934c044430e0b7d7f94dc104af2841.png:286:image/png:1
+i:Digital Buttons/bgText.png:Digital Buttons/bgText-b4f6293dbdfb4ef965e737938444a36c.png:251:image/png:1
 i:Digital Buttons/buttonD.png:Digital Buttons/buttonD-1d6ad09d82d958f4de05a280073ad17d.png:26479:image/png:1
 i:Digital Buttons/buttonUP.png:Digital Buttons/buttonUP-b3129c0d810e78cda7ffee36c94b6b89.png:26952:image/png:1
 i:Digital Buttons/dashB.png:Digital Buttons/dashB-4e0e91a8ec4fffed8ff340e42eff4f1b.png:401:image/png:1
@@ -49,12 +50,25 @@ i:Digital Buttons/switchOFF.png:Digital Buttons/switchOFF-c1eefe66812ceb29d799fd
 i:Digital Buttons/switchOFFw.png:Digital Buttons/switchOFFw-d8ef4b66a03863d6c2d9e3b44a51f1ed.png:262:image/png:1
 i:Digital Buttons/switchON.png:Digital Buttons/switchON-235ee65828e4ad9d58d108c31ca759d1.png:244:image/png:1
 i:Digital Buttons/switchONw.png:Digital Buttons/switchONw-9ab6968abdde53e9d03e1b21abdc99cc.png:237:image/png:1
-i:map1.png:map1-feb443a912e3a2d9430c701ff5025a72.png:7982:image/png:1
-i:map2.png:map2-73448b7b0f93072595267b3d5a2f7e33.png:4477:image/png:1
+d:Digital Buttons/words:Digital Buttons/words:0:application/unknown:1
+i:Digital Buttons/words/a.png:Digital Buttons/words/a-d95716449a79a17089b44cfa3f6ffdcc.png:108:image/png:1
+i:Digital Buttons/words/c.png:Digital Buttons/words/c-1d65660cda3f198d9463a3b37bb1326c.png:97:image/png:1
+i:Digital Buttons/words/e.png:Digital Buttons/words/e-bcca33f328f535fb7a7062fecf293ed7.png:100:image/png:1
+i:Digital Buttons/words/g.png:Digital Buttons/words/g-2de679d5ff0d51cf7cdcfbf6e35b4f48.png:109:image/png:1
+i:Digital Buttons/words/h.png:Digital Buttons/words/h-271698024cfac72361f682ba3f7ca200.png:104:image/png:1
+i:Digital Buttons/words/i.png:Digital Buttons/words/i-0aab7c31491657b57d030216c42f3d14.png:107:image/png:1
+i:Digital Buttons/words/l.png:Digital Buttons/words/l-e6cdb18efe4f8de12c213251a731d3a1.png:95:image/png:1
+i:Digital Buttons/words/n.png:Digital Buttons/words/n-f09c3d1adcf1213bc7d699fd7fa0d5b1.png:117:image/png:1
+i:Digital Buttons/words/o.png:Digital Buttons/words/o-f2d744fd0cfbbac84d432dfacd63fdba.png:107:image/png:1
+i:Digital Buttons/words/p.png:Digital Buttons/words/p-5f462087fa35c5eec24347e4fa8ba1fa.png:111:image/png:1
+i:Digital Buttons/words/s.png:Digital Buttons/words/s-b5d6cf5f59a826f6fab908f98d6fd3a4.png:101:image/png:1
+i:Digital Buttons/words/t.png:Digital Buttons/words/t-ba6a868238ab345b16d3e12d3ee4814d.png:94:image/png:1
+i:map1.png:map1-5b6c833326625248f98a0978fa89e8f8.png:8198:image/png:1
+i:map2.png:map2-1965763488ddca1b8b382928512ea570.png:4431:image/png:1
 i:map2hide.png:map2hide-19233f35e863d5a467efdf1c53eb4256.png:1477:image/png:1
 i:MiniFantasy_DungeonMockup.png:MiniFantasy_DungeonMockup-96e28897d33e96783ceb96b22d7d6421.png:74213:image/png:1
 d:Props:Props:0:application/unknown:1
-i:Props/Minifantasy_DungeonProps.png:Props/Minifantasy_DungeonProps-2034b500831ea0cb5b96b7b62281f9fa.png:5919:image/png:1
+i:Props/Minifantasy_DungeonProps.png:Props/Minifantasy_DungeonProps-0d6e07b18dddacfb0899089de79a6b65.png:5982:image/png:1
 d:Props/Shadows:Props/Shadows:0:application/unknown:1
 i:Props/Shadows/Minifantasy_DungeonPropsShadows.png:Props/Shadows/Minifantasy_DungeonPropsShadows-3c7ae08dbd9617514729a7f42a9abc20.png:619:image/png:1
 d:Tileset:Tileset:0:application/unknown:1
